@@ -1,0 +1,55 @@
+body {
+  background-color: #050505;
+}
+
+p {
+  font-family: Amiko;
+  font-size: 20px;
+  width: 30em;
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFF;
+  text-align: justify;
+}
+
+.b {
+  margin-top: 30px;
+}
+
+#header {
+  background-color: #000;
+}
+
+#name {
+  color: #B00;
+  font-family: Lobster;
+  font-size: 55px;
+  width: 9em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#first {
+  background-color: #3b5998;
+  color: #FFF;
+  font-family: "Lucida Grande";
+}
+
+#second {
+  background-color: #4875B4;
+  color: #FFF;
+  font-family: "Myriad Pro Bold";
+}
+
+#third {
+  color: #FFF;
+  font-family: "Apex Sans";
+	background-color:#333;
+}
+
+#forth {
+  color: #FFF;
+  font-family: Exo2;
+	background-color:#070;
+}
